@@ -9,5 +9,5 @@ public class ParkspotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ParkspotApplication.class, args);
 	}
-
+//1ST PR
 }
